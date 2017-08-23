@@ -1,7 +1,17 @@
-.home-page-container {
+.top-container {
   text-align: center;
   padding-top: 40px;
   border: purple 1px solid;
   border-radius: 4px;
   height: 85vh;
+}
+
+.info-section {
+  padding-top: 15px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.info-section .title {
+  color: rgb(81, 69, 79);
 }
