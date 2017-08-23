@@ -1,0 +1,26 @@
+.main-navbar {
+  height: 85px;
+}
+
+a.navbar-brand {
+  color: rgb(137, 43, 154) !important;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: rgba(147, 53, 164, .4) !important;
+  background: rgba(147, 53, 164, .8) !important;
+}
+
+#navbarSupportedContent {
+  text-align: center;
+}
+.main-navbar #navbarSupportedContent ul * a {
+  color: rgb(137, 43, 154);
+}
+
+@media (max-width: 580px) {
+  a.navbar-brand {
+    display: inline-block;
+    max-width: 250px;
+  }
+}
