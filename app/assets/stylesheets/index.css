@@ -15,3 +15,7 @@
 .info-section .title {
   color: rgb(81, 69, 79);
 }
+
+#locationField {
+  margin-top: 40px;
+}
